@@ -639,6 +639,7 @@ plugins:
 
   operator-framework/community-operators:
   - owners-label
+  - lifecycle
 
   operator-framework/operator-lifecycle-manager:
   - approve
